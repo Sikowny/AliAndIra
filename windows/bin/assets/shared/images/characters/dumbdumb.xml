@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dumbdumb.png">
+    <SubTexture name="ira down0001" x="557" y="0" width="557" height="593" frameX="5" frameY="-9" frameWidth="736" frameHeight="392"/>
+    <SubTexture name="ira down0002" x="1114" y="0" width="557" height="593" frameX="5" frameY="-9" frameWidth="736" frameHeight="392"/>
+    <SubTexture name="ira down0003" x="1671" y="0" width="557" height="593" frameX="5" frameY="-9" frameWidth="736" frameHeight="392"/>
+    <SubTexture name="ira idle0004" x="2228" y="0" width="557" height="593" frameX="5" frameY="-13" frameWidth="429" frameHeight="750"/>
+    <SubTexture name="ira idle0003" x="2785" y="0" width="557" height="593" frameX="5" frameY="-13" frameWidth="429" frameHeight="750"/>
+    <SubTexture name="ira idle0002" x="3342" y="0" width="557" height="593" frameX="5" frameY="-13" frameWidth="429" frameHeight="750"/>
+    <SubTexture name="ira idle0001" x="0" y="593" width="557" height="593" frameX="5" frameY="-13" frameWidth="429" frameHeight="750"/>
+    <SubTexture name="ira idle0000" x="557" y="593" width="557" height="593" frameX="5" frameY="-13" frameWidth="429" frameHeight="750"/>
+    <SubTexture name="ira left0000" x="1114" y="593" width="557" height="593"/>
+    <SubTexture name="ira left0001" x="1671" y="593" width="557" height="593"/>
+    <SubTexture name="ira left0002" x="2228" y="593" width="557" height="593"/>
+    <SubTexture name="ira left0003" x="2785" y="593" width="557" height="593"/>
+    <SubTexture name="ira right0000" x="3342" y="593" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="ira right0001" x="0" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="ira right0002" x="557" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="ira right0003" x="1114" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+    <SubTexture name="ira up0000" x="1671" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+    <SubTexture name="ira up0001" x="2228" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+    <SubTexture name="ira up0002" x="2785" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+    <SubTexture name="ira up0003" x="3342" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="csSik.png">
+	<!-- Created with My bare hands-->
+	<SubTexture name="chair0000" x="1100" y="0" width="550" height="850"/>
+	<SubTexture name="chair0001" x="1650" y="0" width="550" height="850"/>
+	<SubTexture name="chair0002" x="0" y="0" width="550" height="850"/>
+	<SubTexture name="chair0003" x="550" y="0" width="550" height="850"/>
+</TextureAtlas>

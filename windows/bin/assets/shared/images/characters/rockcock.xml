@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rockcock.png">
+    <SubTexture name="ali Sing Note DOWN0000.png" x="0" y="0" width="557" height="593" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>/>
+    <SubTexture name="ali Sing Note DOWN0001.png" x="0" y="0" width="557" height="593" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>/>
+    <SubTexture name="ali Sing Note DOWN0002.png" x="557" y="0" width="557" height="593" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>/>
+    <SubTexture name="ali Sing Note DOWN0003.png" x="1114" y="0" width="557" height="593" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>/>
+    <SubTexture name="ali Sing Note DOWN0004.png" x="1671" y="0" width="557" height="593" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>/>
+    <SubTexture name="ali Sing Note IDLE0007.png" x="2228" y="0" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0006.png" x="2228" y="0" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0005.png" x="2785" y="0" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0004.png" x="3342" y="0" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0003.png" x="0" y="593" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0002.png" x="557" y="593" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0001.png" x="1114" y="593" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note IDLE0000.png" x="1671" y="593" width="557" height="593" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>/>
+    <SubTexture name="ali Sing Note LEFT0000.png" x="2228" y="593" width="557" height="593"/>
+    <SubTexture name="ali Sing Note LEFT0001.png" x="2228" y="593" width="557" height="593"/>
+    <SubTexture name="ali Sing Note LEFT0002.png" x="2785" y="593" width="557" height="593"/>
+    <SubTexture name="ali Sing Note LEFT0003.png" x="3342" y="593" width="557" height="593"/>
+    <SubTexture name="ali Sing Note LEFT0004.png" x="0" y="1186" width="557" height="593"/>
+    <SubTexture name="ali Sing Note LEFT0005.png" x="557" y="1186" width="557" height="593"/>
+    <SubTexture name="ali Sing Note RIGHT0000.png" x="1114" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>/>
+    <SubTexture name="ali Sing Note RIGHT0001.png" x="1114" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>/>
+    <SubTexture name="ali Sing Note RIGHT0002.png" x="1671" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>/>
+    <SubTexture name="ali Sing Note RIGHT0003.png" x="2228" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>/>
+    <SubTexture name="ali Sing Note RIGHT0004.png" x="2785" y="1186" width="557" height="593" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>/>
+    <SubTexture name="ali Sing Note UP0000.png" x="3342" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+    <SubTexture name="ali Sing Note UP0001.png" x="3342" y="1186" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+    <SubTexture name="ali Sing Note UP0002.png" x="0" y="1779" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+    <SubTexture name="ali Sing Note UP0003.png" x="557" y="1779" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+    <SubTexture name="ali Sing Note UP0004.png" x="1114" y="1779" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+    <SubTexture name="ali Sing Note UP0005.png" x="1671" y="1779" width="557" height="593" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bigmans.png">
+	<!-- Created with MY BARE HANDS -->
+    <SubTexture name="IDLE 0000" x="0" y="0" width="450" height="680"/>
+    <SubTexture name="IDLE 0001" x="450" y="0" width="450" height="680"/>
+    <SubTexture name="IDLE 0002" x="900" y="0" width="450" height="680"/>
+    <SubTexture name="IDLE 0003" x="1350" y="0" width="450" height="680"/>
+    <SubTexture name="IDLE 0004" x="1800" y="0" width="450" height="680"/>
+    <SubTexture name="DOWN 0000" x="0" y="680" width="450" height="680"/>
+    <SubTexture name="DOWN 0001" x="450" y="680" width="450" height="680"/>
+    <SubTexture name="DOWN 0002" x="900" y="680" width="450" height="680"/>
+    <SubTexture name="DOWN 0003" x="1350" y="680" width="450" height="680"/>
+    <SubTexture name="DOWN 0004" x="1350" y="680" width="450" height="680"/>
+    <SubTexture name="DOWN 0005" x="1350" y="680" width="450" height="680"/>
+    <SubTexture name="LEFT 0000" x="0" y="1360" width="450" height="680"/>
+    <SubTexture name="LEFT 0001" x="450" y="1360" width="450" height="680"/>
+    <SubTexture name="LEFT 0002" x="900" y="1360" width="450" height="680"/>
+    <SubTexture name="LEFT 0003" x="1350" y="1360" width="450" height="680"/>
+    <SubTexture name="LEFT 0004" x="1350" y="1360" width="450" height="680"/>
+    <SubTexture name="LEFT 0005" x="1350" y="1360" width="450" height="680"/>
+    <SubTexture name="RIGHT 0000" x="0" y="2040" width="450" height="680"/>
+    <SubTexture name="RIGHT 0001" x="450" y="2040" width="450" height="680"/>
+    <SubTexture name="RIGHT 0002" x="900" y="2040" width="450" height="680"/>
+    <SubTexture name="RIGHT 0003" x="1350" y="2040" width="450" height="680"/>
+    <SubTexture name="RIGHT 0004" x="1350" y="2040" width="450" height="680"/>
+    <SubTexture name="RIGHT 0005" x="1350" y="2040" width="450" height="680"/>
+    <SubTexture name="UP 0000" x="0" y="2720" width="450" height="680"/>
+    <SubTexture name="UP 0001" x="450" y="2720" width="450" height="680"/>
+    <SubTexture name="UP 0002" x="900" y="2720" width="450" height="680"/>
+    <SubTexture name="UP 0003" x="1350" y="2720" width="450" height="680"/>
+    <SubTexture name="UP 0004" x="1350" y="2720" width="450" height="680"/>
+    <SubTexture name="UP 0005" x="1350" y="2720" width="450" height="680"/>
+</TextureAtlas>

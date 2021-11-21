@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="bgIdiots2.png" width="2562" height="4115">
+    <SubTexture name="BackBoys0000" x="0" y="0" width="2562" height="823"/>
+	<SubTexture name="BackBoys0001" x="0" y="823" width="2562" height="823"/>
+	<SubTexture name="BackBoys0002" x="0" y="1646" width="2562" height="823"/>
+	<SubTexture name="BackBoys0003" x="0" y="2469" width="2562" height="823"/>
+    <SubTexture name="BackBoys0003" x="0" y="3292" width="2562" height="823"/>
+</TextureAtlas>

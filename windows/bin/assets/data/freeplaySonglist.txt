@@ -1,0 +1,4 @@
+Tutorial:gf:0
+Aloof:ali:7
+Irate:ira:7
+Shakedown:bigman:8

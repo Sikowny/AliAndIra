@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chairs.png">
+	<!-- Created with My bare hands-->
+	<SubTexture name="chair-0-0000" x="220" y="0" width="110" height="170"/>
+	<SubTexture name="chair-0-0001" x="330" y="0" width="110" height="170"/>
+	<SubTexture name="chair-0-0002" x="0" y="0" width="110" height="170"/>
+	<SubTexture name="chair-0-0003" x="110" y="0" width="110" height="170"/>
+
+	<SubTexture name="chair-1-0000" x="220" y="170" width="110" height="170"/>
+	<SubTexture name="chair-1-0001" x="330" y="170" width="110" height="170"/>
+	<SubTexture name="chair-1-0002" x="0" y="170" width="110" height="170"/>
+	<SubTexture name="chair-1-0003" x="110" y="170" width="110" height="170"/>
+
+	<SubTexture name="chair-2-0000" x="220" y="340" width="110" height="170"/>
+	<SubTexture name="chair-2-0001" x="330" y="340" width="110" height="170"/>
+	<SubTexture name="chair-2-0002" x="0" y="340" width="110" height="170"/>
+	<SubTexture name="chair-2-0003" x="110" y="340" width="110" height="170"/>
+
+	<SubTexture name="chair-3-0000" x="220" y="510" width="110" height="170"/>
+	<SubTexture name="chair-3-0001" x="330" y="510" width="110" height="170"/>
+	<SubTexture name="chair-3-0002" x="0" y="510" width="110" height="170"/>
+	<SubTexture name="chair-3-0003" x="110" y="510" width="110" height="170"/>
+</TextureAtlas>

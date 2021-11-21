@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="csCrash.png">
+	<!-- Created with My bare hands-->
+	<SubTexture name="sploot0000" x="1100" y="0" width="550" height="850"/>
+	<SubTexture name="sploot0001" x="1650" y="0" width="550" height="850"/>
+	<SubTexture name="sploot0002" x="0" y="0" width="550" height="850"/>
+	<SubTexture name="sploot0003" x="550" y="0" width="550" height="850"/>
+
+	<SubTexture name="crash0000" x="1100" y="850" width="550" height="850"/>
+	<SubTexture name="crash0001" x="1650" y="850" width="550" height="850"/>
+	<SubTexture name="crash0002" x="0" y="850" width="550" height="850"/>
+	<SubTexture name="crash0003" x="550" y="850" width="550" height="850"/>
+
+	<SubTexture name="lump0000" x="1100" y="1700" width="550" height="850"/>
+	<SubTexture name="lump0001" x="1650" y="1700" width="550" height="850"/>
+	<SubTexture name="lump0002" x="0" y="1700" width="550" height="850"/>
+	<SubTexture name="lump0003" x="550" y="1700" width="550" height="850"/>
+
+	<SubTexture name="sik0000" x="1100" y="2550" width="550" height="850"/>
+	<SubTexture name="sik0001" x="1650" y="2550" width="550" height="850"/>
+	<SubTexture name="sik0002" x="0" y="2550" width="550" height="850"/>
+	<SubTexture name="sik0003" x="550" y="2550" width="550" height="850"/>
+</TextureAtlas>
