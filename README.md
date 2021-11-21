@@ -1,5 +1,5 @@
 
-![logo](windows/bin/images/AliLogo.png)
+![logo](windows/bin/assets/images/AliLogo.png)
 
 # Friday Night Funkin': Ali & Ira
 
